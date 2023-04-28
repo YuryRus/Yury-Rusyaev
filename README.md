@@ -79,7 +79,7 @@
   <li>Создал визуализацию (линейную диаграмму) итогового результата<p>
     
 
-> <a href="https://github.com/YuryRus/Yury-Rusyaev/blob/main/SQL/student_balances">Ссылка на проект</a>
+> <a href="https://github.com/YuryRus/Yury-Rusyaev/blob/main/SQL/">Ссылка на проект</a>
 
  
 <p>Выводы:<p>
